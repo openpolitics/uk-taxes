@@ -1,5 +1,11 @@
 source "https://rubygems.org"
 
-gem "cucumber"
-gem "faker"
-gem "rspec-expectations"
+ruby "2.4.1"
+
+gem "rake"
+
+group :test do
+  gem "cucumber"
+  gem "faker"
+  gem "rspec-expectations"
+end
