@@ -3,7 +3,7 @@ GEM
   specs:
     backports (3.8.0)
     builder (3.2.3)
-    cucumber (3.0.0)
+    cucumber (3.0.1)
       builder (>= 2.1.2)
       cucumber-core (~> 3.0.0)
       cucumber-expressions (~> 4.0.3)
