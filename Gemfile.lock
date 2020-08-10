@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
     builder (3.2.4)
-    concurrent-ruby (1.1.6)
+    concurrent-ruby (1.1.7)
     cucumber (4.1.0)
       builder (~> 3.2, >= 3.2.3)
       cucumber-core (~> 7.1, >= 7.1.0)
