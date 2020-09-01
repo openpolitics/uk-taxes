@@ -47,7 +47,7 @@ GEM
     i18n (1.8.5)
       concurrent-ruby (~> 1.0)
     middleware (0.1.0)
-    minitest (5.14.1)
+    minitest (5.14.2)
     multi_test (0.1.2)
     protobuf-cucumber (3.10.8)
       activesupport (>= 3.2)
